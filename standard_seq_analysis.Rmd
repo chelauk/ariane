@@ -1,5 +1,5 @@
 ---
-title: "Exploring Raj's Samples"
+title: "Standard Analysis of bulk RNA-seq"
 author: <a href="https://chela-james.github.io/"> <h3> Chela James </h3> </a> \newline Cancer Institute, UCL, UK
 date: 15 Aprl 2019
 output:
